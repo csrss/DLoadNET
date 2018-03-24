@@ -1,4 +1,6 @@
 # DLoad .NET [ Driver Loader ]
+Application for loading windows kernel mode drivers. Written in 2009. Not supported any longer.
+
 Note:
 DLoad uses external dll for injection mode, because it is not possible to
 do injection from managed code into native. External dll gets unpacked when 
